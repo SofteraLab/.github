@@ -70,7 +70,7 @@ Scope and quote after a short project brief.
 
 ---
 
-## Open Source on GitHub
+## Our products on GitHub
 
 We publish kits, schematics, and documentation for practice.
 

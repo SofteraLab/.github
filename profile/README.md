@@ -76,6 +76,10 @@ We publish kits, schematics, and documentation for practice.
 
 Repository links will appear here after publishing. Featured projects are pinned below.
 
+- [SMD Solder Kit SK40](https://github.com/SofteraLab/smd-solder-kit-sk40) — SMD 0603/0805/1206 soldering practice board SK40 
+
+![Uploading image.png…]()
+
 ---
 
 ## Have fun!

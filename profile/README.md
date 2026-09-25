@@ -77,7 +77,6 @@ We publish kits, schematics, and documentation for practice.
 Repository links will appear here after publishing. Featured projects are pinned below.
 
 - [SMD Solder Kit SK40](https://github.com/SofteraLab/smd-solder-kit-sk40) — SMD 0603/0805/1206 soldering practice board SK40
-- [SMD Solder Led Tester Kit SK15](https://github.com/SofteraLab/smd-solder-kit-led-tester) — LED 0402/0603/0805/1206 3/5mm & CR2032 battery tester soldering kit · SK-15
 - [SMD Solder Led Tester Kit SK15](https://github.com/SofteraLab/smd-solder-kit-led-tester) — LED 0402/0603/0805/1206 3/5mm & CR2032 battery tester soldering kit · SK15
 - [SMD Matrix Solder Kit SK75](https://github.com/SofteraLab/matrix-solder-kit-sk75) — Matrix 64*LED's 1206? MCU and driver in soldering kit · SK75
 

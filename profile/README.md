@@ -81,6 +81,7 @@ Repository links will appear here after publishing. Featured projects are pinned
 - [SMD Matrix Solder Kit SK75](https://github.com/SofteraLab/matrix-solder-kit-sk75) — Matrix 64*LED's 1206, USB, SOIC-8 MCU and SOIC-20 driver in soldering kit · SK75
 - [Piano SMD Solder Kit SK25](https://github.com/SofteraLab/piano-solder-kit-sk25) — MIDI PIANO soldering practice kit | 1206, SOIC-8, USB, and buttons in soldering kit · SK25
 - [SMD Matrix Solder Kit SK65](https://github.com/SofteraLab/smd-matrix-0805-solder-kit-sk65) — Matrix 64*LED's 0805 and SOIC-20 driver in soldering kit · SK65
+- [SMD Tiny Light Kit SK10](https://github.com/SofteraLab/tiny-light-kit-sk10) — LED 0805/1206 - 3/5mm & CR2032 battery, Li-iOn battery, USB, mini soldering kit · SK10
 
 Manufacturing files (schematics source, Gerbers, full production BOM) stay private.  
 © Softera Lab. All rights reserved.

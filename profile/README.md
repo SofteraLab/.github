@@ -3,7 +3,7 @@
 **From soldering and schematics to Arduino, STM32, and Embedded.**  
 Custom electronics, prototypes, and firmware for your project.  
 
-[🔗 softeralab.com](https://www.softeralab.com/) · [Join us](https://www.softeralab.com/join-us/) · [Contact](https://www.softeralab.com/our-contacts/)
+[🔗 softeralab.com](https://www.softeralab.com/) · [Projects](https://www.softeralab.com/our-projects/) · [Contact](https://www.softeralab.com/our-contacts/)
 
 ---
 

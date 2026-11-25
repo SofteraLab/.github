@@ -84,6 +84,7 @@ Repository links will appear here after publishing. Featured projects are pinned
 - [SMD Tiny Light Kit SK10](https://github.com/SofteraLab/tiny-light-kit-sk10) — LED 0805/1206 - 3/5mm & CR2032 battery, Li-iOn battery, USB Type-c, mini soldering kit · SK10
 - [Hourglass solder Kit](https://github.com/SofteraLab/hourglass-solder-kit) — Hourglass 64*LED's - 2 matrix, USB Type-c, TQFP-32 MCU and 2 x SOIC-20 driver, MPU-6050, Charge MCU TP4054 and other in our soldering kit 
 - [Practice Board Solder Kit](https://github.com/SofteraLab/practice-board-solder-kit) — Analog LED breathe soldering practice kit | 18× LED 1206, LM358 SOIC-8, SOT-23, USB Type-C, practice pads
+- [Practice Board Solder Kit SK35](https://github.com/SofteraLab/SMD-soldering-practice-kit-SK-35) - SMD soldering practice with NE555 + CD4017 LED chase across 1206–0201, powered by USB-C 5 V.
 
 Manufacturing files (schematics source, Gerbers, full production BOM) stay private.  
 © Softera Lab. All rights reserved.
